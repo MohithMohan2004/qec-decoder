@@ -1,0 +1,1 @@
+last unattended `demo.py --d 5 --p 0.01 --no-plots` took 7.7 s

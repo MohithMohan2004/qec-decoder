@@ -1,0 +1,2 @@
+decoder,crossing_found,p_threshold,p_below,p_above
+pymatching,True,0.006285249053394929,0.006,0.008

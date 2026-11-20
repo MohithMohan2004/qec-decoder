@@ -1,0 +1,6 @@
+model,distance,params
+mlp,3,11521
+cnn,3,187937
+mlp,5,72193
+cnn,5,352353
+mlp_fixed_p,3,11521

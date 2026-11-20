@@ -1,0 +1,30 @@
+{
+  "name": "mlp_d5",
+  "kind": "mlp",
+  "distance": 5,
+  "params": 72193,
+  "steps": 12000,
+  "best_step": 12000,
+  "best_val_loss": 0.1487690806388855,
+  "train_ps": [
+    0.002,
+    0.003,
+    0.004,
+    0.005,
+    0.006,
+    0.008,
+    0.01,
+    0.012
+  ],
+  "batch_size": 4096,
+  "lr": 0.001,
+  "mode": "full",
+  "seeds": {
+    "train": 1000,
+    "val": 2000,
+    "test": 3000,
+    "demo": 4000
+  },
+  "train_seconds": 375.6,
+  "timestamp": "2026-11-14T22:09:23"
+}

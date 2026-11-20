@@ -1,0 +1,8 @@
+{
+  "mode": "full",
+  "test_shots": {
+    "3": 500000,
+    "5": 1000000
+  },
+  "hardware": "Intel(R) Core(TM) i5-10210U CPU @ 1.60GHz; 8 logical CPUs; torch threads 8; CPU only"
+}

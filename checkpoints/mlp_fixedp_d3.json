@@ -1,0 +1,23 @@
+{
+  "name": "mlp_fixedp_d3",
+  "kind": "mlp",
+  "distance": 3,
+  "params": 11521,
+  "steps": 6000,
+  "best_step": 6000,
+  "best_val_loss": 0.04980948194861412,
+  "train_ps": [
+    0.005
+  ],
+  "batch_size": 4096,
+  "lr": 0.001,
+  "mode": "full",
+  "seeds": {
+    "train": 1000,
+    "val": 2000,
+    "test": 3000,
+    "demo": 4000
+  },
+  "train_seconds": 55.0,
+  "timestamp": "2026-11-15T00:46:08"
+}

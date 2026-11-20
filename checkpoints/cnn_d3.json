@@ -1,0 +1,30 @@
+{
+  "name": "cnn_d3",
+  "kind": "cnn",
+  "distance": 3,
+  "params": 187937,
+  "steps": 6000,
+  "best_step": 6000,
+  "best_val_loss": 0.07754266262054443,
+  "train_ps": [
+    0.002,
+    0.003,
+    0.004,
+    0.005,
+    0.006,
+    0.008,
+    0.01,
+    0.012
+  ],
+  "batch_size": 4096,
+  "lr": 0.001,
+  "mode": "full",
+  "seeds": {
+    "train": 1000,
+    "val": 2000,
+    "test": 3000,
+    "demo": 4000
+  },
+  "train_seconds": 2112.4,
+  "timestamp": "2026-11-14T22:03:07"
+}

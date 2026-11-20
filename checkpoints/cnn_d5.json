@@ -1,0 +1,30 @@
+{
+  "name": "cnn_d5",
+  "kind": "cnn",
+  "distance": 5,
+  "params": 352353,
+  "steps": 12000,
+  "best_step": 12000,
+  "best_val_loss": 0.11795683950185776,
+  "train_ps": [
+    0.002,
+    0.003,
+    0.004,
+    0.005,
+    0.006,
+    0.008,
+    0.01,
+    0.012
+  ],
+  "batch_size": 4096,
+  "lr": 0.001,
+  "mode": "full",
+  "seeds": {
+    "train": 1000,
+    "val": 2000,
+    "test": 3000,
+    "demo": 4000
+  },
+  "train_seconds": 9350.3,
+  "timestamp": "2026-11-15T00:45:13"
+}
